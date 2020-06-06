@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  DailyTracker
+//  ExpenseTracker
 //
 //  Created by Clayton Watkins on 6/6/20.
 //  Copyright © 2020 Clayton Watkins. All rights reserved.
